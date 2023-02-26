@@ -1,0 +1,14 @@
+Assignment 1
+
+Deadline: 27.11.2022
+
+	
+ What are the characteristics of randam forest classification model? What is the difference between random forest model? Give the pseudo code of it. Explain the code.
+	
+ What is transfer learning? Give a model and explain the model.
+	
+ Explain support vector machine model in details. What are the advantages and disadvantages of it.
+	
+ Explain fasttext classification model in details. What are the advantages and disadvantages of it.
+	
+ What are the techniques used for class imbalance problem. Give specific techniques used in literatüre and explain each of them.

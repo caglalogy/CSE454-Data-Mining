@@ -1,0 +1,15 @@
+Assignment 2
+
+Deadline: 08.01.2023
+
+
+	
+ What are the embedding techniques used in text mining?
+	
+ What kind of techniques can be used when there are more than one type of outliers. Describe one of them.
+	
+ What is graph mining? Give one of the graph mining technique that is well known in graph mining literature. Describe it.
+	
+ What are the statistical techniques to evaluate the relationship between each input variable and the target variable? Give at least 5 of them and explain them shortly and give formulas.
+	
+ Explain one feature selection and one feature extraction technique, that is not mentioned in our lectures, in details.
